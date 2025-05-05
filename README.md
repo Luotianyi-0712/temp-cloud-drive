@@ -161,7 +161,7 @@ docker-compose up -d --build
 5. Create a new Pull Request.
 
 ## License
-MIT License. See LICENSE for details.
+GPL-3.0 license. See LICENSE for details.
 
 ## Support
 For issues and feature requests, please open an issue.
