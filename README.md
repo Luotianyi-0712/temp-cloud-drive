@@ -73,7 +73,7 @@ frontend/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/temp-cloud-drive.git
+   git clone https://github.com/Luotianyi-0712/temp-cloud-drive.git
    cd temp-cloud-drive
    ```
 
@@ -165,4 +165,3 @@ MIT License. See LICENSE for details.
 
 ## Support
 For issues and feature requests, please open an issue.
-```
