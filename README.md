@@ -164,4 +164,4 @@ docker-compose up -d --build
 GPL-3.0 license. See LICENSE for details.
 
 ## Support
-For issues and feature requests, please open an issue.
+For issues and feature requests, please open an [issue](https://github.com.Luotianyi-0712/temp-cloud-drive/issues)
