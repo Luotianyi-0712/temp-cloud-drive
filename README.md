@@ -1,4 +1,4 @@
-
+缺乏维护性，且bug连篇，此初始版本已停止维护
 # Temporary Cloud Drive
 
 A secure temporary file sharing system with automatic expiration and access control.
